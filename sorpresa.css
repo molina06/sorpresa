@@ -1,0 +1,96 @@
+body{
+background-color: tomato;
+}
+h1{
+    font-size: 100px;
+    font-style: oblique;
+    font-family: cursive;
+    color:blue;
+    margin: 50px;
+}
+img{
+    width: 350px;
+    height: 350px;
+    margin: auto;
+}
+p{
+    font-size: 19px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+}
+.p{
+    font-size: 24px;
+    font-family: fantasy;
+    color: indigo;
+}
+.img{
+    width:350px ;
+    height: 250px;
+    margin: auto;
+}
+a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    font-variant-position: initial;
+    color: midnightblue;
+}
+.h1{
+    font-family: unset;
+    font-size: 70px;
+    color: seagreen;
+}
+.img6{
+    width: 270px;
+    height: 270px;
+    margin: 7px;
+}
+.img7{
+    width: 270px;
+    height: 270px;
+    margin:7px ;
+}
+.img8{
+     width: 270px;
+    height: 270px;
+    margin:7px ;
+}
+.img9{
+    width: 270px;
+    height: 270px;
+    margin:7px ;
+}
+.img10{
+    width: 270px;
+    height: 270px;
+    margin:7px;
+}
+.img11{
+    width: 270px;
+    height: 270px;
+    margin:7px ;
+}
+.img12{
+    width: 270px;
+    height: 270px;
+    margin:7px ;
+}
+.img13{
+    width: 270px;
+    height: 270px;
+    margin: 7px;
+}
+.img14{
+    width: 270px;
+    height: 270px;
+    margin: 7px;
+}
+.img15{
+    width: 270px;
+    height: 270px;
+    margin: 7px;
+}
+.img16{
+    width: 270px;
+    height: 270px;
+    margin: 7px;
+}
